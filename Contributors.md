@@ -1,3 +1,4 @@
+-[Shaurya_saxena} (https://github.com/saxenashaurya17-dotcom)- my first contribution
 - [Vaibhav Shivam](https://github.com/Vaibhav-Shivam) - My first contribution!
 - [Abhinaba Das](https://github.com/abhinaba75) - Hi, there connect me at https://e075.com 👀
 - [Bibek Roy](https://github.com/bibekbrg)
@@ -10,7 +11,7 @@
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Paul Song](https://github.com/sunruns1 - My first open source contribution
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
-- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git). SHIVANSHU SINGH RAJPUT
+- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [wongdhesoo3](https://github.com/wongdhesoo3)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
@@ -8762,7 +8763,6 @@ Kunal Khallar - Learning to contribute :)
 - [Chetan Reddy](https://github.com/chetanreddypro11)
 - [SypherFLS](https://github.com/SypherFLS)
 - [Daisyyyyyyyyyyyyyyy](https://github.com/Daisyyyyyyyyyyyyyyy)
-- [Lohith Batchu](https://github.com/Lohith-batchu)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
 - [PSOrigins](https://github.com/psorigins10) - Every great journey begins with a single step. Excited to start my open-source journey, learn from amazing developers, and build something meaningful together! 
